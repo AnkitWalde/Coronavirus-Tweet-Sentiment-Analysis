@@ -48,9 +48,7 @@ The CoVid-19 pandemic has shaken the very foundation of society wherein people w
 
 -In the future ,we can repeat the analysis and compare it with the present sentimental analysis to gauge the impact of the initiatives on the ground.
 
-**##CREDITS:**
 
-Gaurav Malakar | Anup A. Jambulkar | Ankit Walde | Anil Bhatt | Vibhu Sharma
 
 **##References**
 
